@@ -44,10 +44,19 @@
     
     <!-- MathJax Support -->
     <!-- Use '$' for inline math mode -->
-  <!-- Use cdnjs as CDN provider -->
-  <script type="text/javascript" async
-    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
-  </script>
+    <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: { 
+        inlineMath: [ ['$','$'],['\\(','\\)'] ],
+        processEscapes: true
+      }
+    });
+    </script>
+    
+    <!-- Use cdnjs as CDN provider -->
+    <script type="text/javascript" async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
