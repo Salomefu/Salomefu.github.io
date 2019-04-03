@@ -1,9 +1,9 @@
 # Site settings
-title: Dream. Laugh. Reach for the stars.
+title: Qing's Blog
 SEOTitle: salomes
 header-img: img/post-bg-desk.jpg
 email: fuqingreal@gmail.com
-description: "Do not go gently to that night"
+description: "Hey,there"
 keyword: "Python,Statistics and Math "
 url: "http://Salomefu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
