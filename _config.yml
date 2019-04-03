@@ -1,17 +1,17 @@
 # Site settings
-title: FQ Blog
-SEOTitle: 莎乐美的博客 | FQ Blog
+title: Dream. Laugh. Reach for the stars.
+SEOTitle: salomes
 header-img: img/post-bg-desk.jpg
 email: fuqingreal@gmail.com
 description: "Do not go gently to that night"
-keyword: "Physics,Math and Money"
+keyword: "Python,Statistics and Math "
 url: "http://Salomefu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Salomefu/Salomefu.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Well,it is sad to be lonely"
+sidebar-about-description: "Dream. Laugh. Reach for the stars."
 sidebar-avatar: /img/avatar_g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
