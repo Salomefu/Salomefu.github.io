@@ -1,3 +1,16 @@
+---
+layout: post
+title: deep_network
+subtitle: 
+date: 2019-09-12
+author: Salome
+header-img: img/post-bg-2015.jpg
+catalog: true
+tags:
+
+   - machine learning
+---
+
 # 模型
 
 
