@@ -2,7 +2,7 @@
 layout: post
 title: shallow_network
 subtitle: 
-date: 2019-09-12
+date: 2018-02-12
 author: Salome
 header-img: img/post-bg-2015.jpg
 catalog: true
